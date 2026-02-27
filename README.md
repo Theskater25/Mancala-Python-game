@@ -14,3 +14,9 @@ Contrôles :
   -Clic gauche : sélectionner un trou
   -Touche R : recommencer la partie
   -Fermer la fenêtre : quitter le jeu
+
+  
+Auteurs :
+Clément Faure
+Clément Dufour
+Tom Torrente
