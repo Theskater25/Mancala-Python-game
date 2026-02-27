@@ -1,0 +1,7 @@
+Installation:
+  -Installer Python
+  -Installer Pygame : pip install pygame
+  -Ajouter les images :
+      plateaumancala.png
+      bille.png
+  -Lancer le jeu : python mancala.py
